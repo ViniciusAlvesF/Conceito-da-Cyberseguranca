@@ -68,8 +68,24 @@ Markdown:
 * **3.3. Hardening:** Fechamento de portas inúteis, atualização de patches e blindagem de servidores corporativos.
 
 
+Inicialmente a IA gerou conteúdos interessantes porem não muito completos, ao adicionar mais fontes de pesquisa e adicionar especificações no prompt a mesma gerou respostas bem organizadas e completas.
+
+
 Projetos gerados:
 [Cybersecurity_Loss_of_Innocence.pdf](https://github.com/user-attachments/files/31234739/Cybersecurity_Loss_of_Innocence.pdf), <img width="2478" height="1337" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/4f6c0d30-e34b-48b1-ad77-c17eadb1fc12" /> <img width="3858" height="1737" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/429359c5-ebc5-444d-9024-c1e34db262ac" /> <img width="5301" height="8438" alt="NotebookLM Mind Map (3)" src="https://github.com/user-attachments/assets/074c3fa3-827c-40e0-938c-97e0b34f73fe" />
+
+
+
+Fontes:
+https://hackerrangers.com/pt/awareness/a-historia-da-seguranca-da-informacao-mais-de-um-seculo-protegendo-conhecimento/
+https://www.securityisalifestyle.com.br/single-post/a-hist%C3%B3ria-e-evolu%C3%A7%C3%A3o-dos-sistemas-de-preven%C3%A7%C3%A3o-de-intrus%C3%A3o-ips
+https://www.kaspersky.com.br/blog/seguranca-da-informacao-na-ii-guerra-mundial-hackeando-a-maquina-enigma/5236/
+https://hackerdna.com/pt-br/blog/certificacoes-ciberseguranca
+https://danieldonda.com/plano-de-estudos-ciberseguranca-2026/
+https://cseweb.ucsd.edu/classes/sp18/cse127-b/cse127sp18.11.pdf
+
+
+
 
 
 
