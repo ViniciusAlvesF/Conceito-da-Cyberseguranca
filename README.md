@@ -72,7 +72,10 @@ Inicialmente a IA gerou conteúdos interessantes porem não muito completos, ao 
 
 
 Projetos gerados:
-[Cybersecurity_Loss_of_Innocence.pdf](https://github.com/user-attachments/files/31234739/Cybersecurity_Loss_of_Innocence.pdf), <img width="2478" height="1337" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/4f6c0d30-e34b-48b1-ad77-c17eadb1fc12" /> <img width="3858" height="1737" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/429359c5-ebc5-444d-9024-c1e34db262ac" /> <img width="5301" height="8438" alt="NotebookLM Mind Map (3)" src="https://github.com/user-attachments/assets/074c3fa3-827c-40e0-938c-97e0b34f73fe" />
+[Cybersecurity_Loss_of_Innocence.pdf](https://github.com/user-attachments/files/31234739/Cybersecurity_Loss_of_Innocence.pdf), 
+<img width="2478" height="1337" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/4f6c0d30-e34b-48b1-ad77-c17eadb1fc12" /> 
+<img width="3858" height="1737" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/429359c5-ebc5-444d-9024-c1e34db262ac" /> 
+<img width="5301" height="8438" alt="NotebookLM Mind Map (3)" src="https://github.com/user-attachments/assets/074c3fa3-827c-40e0-938c-97e0b34f73fe" />
 
 
 
